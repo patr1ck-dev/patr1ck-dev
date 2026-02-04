@@ -96,14 +96,14 @@ Estou em busca de uma **primeira oportunidade na área de TI** onde eu possa apr
 
 ---
 
-## ## 📫 Vamos conversar?
+## 📫 Vamos conversar?
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-magalhães-212b3b213/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541985123080)
   
 </div>
-
 ---
 
 <div align="center">
