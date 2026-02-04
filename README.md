@@ -96,17 +96,12 @@ Estou em busca de uma **primeira oportunidade na área de TI** onde eu possa apr
 
 ---
 
-## 📫 Vamos conversar?
+## ## 📫 Vamos conversar?
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-magalhães-212b3b213/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:costapaytrick@gmail.com)
   
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=patr1ck-dev&color=blue&style=flat-square&label=Visitantes" alt="Profile views" />
 </div>
 
 ---
