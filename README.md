@@ -56,16 +56,16 @@ Ainda estou me encontrando profissionalmente, mas essa jornada de exploração t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patr1ck-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patr1ck-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patr1ck-dev&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patr1ck-dev&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -100,14 +100,13 @@ Estou em busca de uma **primeira oportunidade na área de TI** onde eu possa apr
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](SEU_PORTFOLIO)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-magalhães-212b3b213/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:costapaytrick@gmail.com)
   
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue&style=flat-square&label=Visitantes" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=patr1ck-dev&color=blue&style=flat-square&label=Visitantes" alt="Profile views" />
 </div>
 
 ---
