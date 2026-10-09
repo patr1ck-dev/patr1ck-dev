@@ -30,6 +30,10 @@ Sou operador CNC na indústria há mais de 2 anos e estou fazendo a transição 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## 🤖 Transparência sobre IA
+
+Desenvolvo meus projetos com apoio de IA (Claude, da Anthropic) e reviso, testo e adapto o código às necessidades reais de cada caso.
+
 ## 🎯 O que procuro
 
 Uma oportunidade na área de TI (automação, dados ou desenvolvimento) onde eu possa somar a experiência industrial com tecnologia e continuar crescendo na prática.
